@@ -1,1 +1,1 @@
-Simple personal portfolio created with ReactJS and Bootstrap
+Simple personal website created with ReactJS and Bootstrap
