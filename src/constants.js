@@ -3,7 +3,7 @@ import slcImg from './images/slc.png';
 import ldImg from './images/ld.png';
 import gitletImg from './images/gitlet.png'
 export const NAME = "Juno Morey"
-export const BIO = "I'm a producer, traveller, and software engineer from Oakland, CA. I'm looking for full time positions starting Fall 2018 and onwards. Check out some of my projects below and feel free to contact me at"
+export const BIO = "Software Engineer from the Bay Area looking for full time positions starting Fall 2018 and onwards. Email: "
 export const EMAIL = "junoleemorey@gmail.com"
 export const SOCIALS = [
 	{
