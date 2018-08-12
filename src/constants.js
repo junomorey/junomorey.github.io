@@ -2,6 +2,7 @@ import mixxtapeImg from './images/mixxtape.png';
 import slcImg from './images/slc.png';
 import ldImg from './images/ld.png';
 import gitletImg from './images/gitlet.png'
+import fubyImg from './images/fuby.png';
 export const NAME = "Juno Morey"
 export const BIO = "Software Engineer from the Bay Area looking for full time positions starting Fall 2018 and onwards. Email: "
 export const EMAIL = "junoleemorey@gmail.com"
@@ -42,6 +43,12 @@ export const PROJECTS = [
 		image: ldImg,
 		description: "Teamed with an engineer and a designer to design and build an MVP for the Procore Learning and Development's Informational Website using Sketch, ReactJS, and Bootsrap",
 		link: "http://procore-learning.herokuapp.com/"
+	},
+	{
+		title: "Fuby",
+		image: fubyImg,
+		description: "Developed a Student Course Forum with 3 other engineers using Rails, HTML5, CSS3, and Bootstrap"
+		link: "http://fuby.herokuapp.com/"
 	},
 	{
 		title: "Gitlet",
