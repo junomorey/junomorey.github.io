@@ -5,7 +5,7 @@ import gitletImg from './images/gitlet.png'
 import fubyImg from './images/fuby.png';
 import portfolioImg from './images/portfolio.png';
 export const NAME = "Juno Morey"
-export const BIO = "Software Engineer from the Bay Area looking for full time positions starting Fall 2018 and onwards. Email: "
+export const BIO = "Software Engineer from the Bay Area looking for full time positions starting Fall 2018 and onwards. You can see some of my projects below, and if you'd like to get in touch send me an email at "
 export const EMAIL = "junoleemorey@gmail.com"
 export const SOCIALS = [
 	{
